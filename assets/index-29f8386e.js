@@ -51106,7 +51106,7 @@ const gG = {
                 }),
                 S.jsx(Wd, {
                   link: "https://x.com/jessepollak/status/1991190346064085209",
-                  variant: "light",
+                  variant: "light", 
                   children: "View Tweet",
                 }),
                 S.jsx("img", {
