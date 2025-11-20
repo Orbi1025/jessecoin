@@ -14525,12 +14525,12 @@ const R9 = [
       }),
     },
     {
-      question: "What are $JESSE’s Tokenomics?",
+      question: "What are $jesse’s Tokenomics?",
       answer: S.jsxs(S.Fragment, {
         children: [
           S.jsxs("p", {
             children: [
-              "$JESSE has a total supply of 1,000,000,000 (1 billion) tokens. Liquidity was automatically burned and renounced with 0% tax on transactions.",
+              "$jesse has a total supply of 1,000,000,000 (1 billion) tokens. Liquidity was automatically burned and renounced with 0% tax on transactions.",
             ],
           }),
           S.jsx("p", {
@@ -14618,7 +14618,7 @@ const R9 = [
             children: S.jsx("h1", {
               className:
                 "text-4xl sm:text-7xl text-[#0052FF] mt-4 sm:mt-8 tracking-tight leading-tight",
-              children: "JESSE FAQ",
+              children: "jesse FAQ",
             }),
           }),
           S.jsx(ue.div, {
@@ -50536,7 +50536,7 @@ function pG({
 }
 const mG = [
   // {
-  //   link: "https://wallet.coinbase.com/assets/crypto/ETH%2FRUSSELL%2FETHEREUM_CHAIN%3A8453%2Ffalse%2F0xcomingsoon?assetUUID=4faf1315-5fb7-4db9-bd71-5cd2c3536661&assetName=JESSE",
+  //   link: "https://wallet.coinbase.com/assets/crypto/ETH%2FRUSSELL%2FETHEREUM_CHAIN%3A8453%2Ffalse%2F0xcomingsoon?assetUUID=4faf1315-5fb7-4db9-bd71-5cd2c3536661&assetName=jesse",
   //   linkText: "Coinbase Wallet",
   // },
   // {
@@ -50565,7 +50565,7 @@ const gG = {
     chainId: 8453,
     decimals: 18,
     name: "jesse",
-    symbol: "JESSE",
+    symbol: "jesse",
     image: "/russell-new.png",
   },
   zx = [Dn, gs, vl, td, nd],
@@ -50802,7 +50802,7 @@ const gG = {
                   initial: { opacity: 0, x: -100 },
                   animate: t ? { opacity: 1, x: 0 } : { opacity: 0, x: -100 },
                   transition: { duration: 0.8 },
-                  children: "$JESSE is available on",
+                  children: "$jesse is available on",
                 }),
                 S.jsx("div", {
                   className:
