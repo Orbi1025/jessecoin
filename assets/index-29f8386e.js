@@ -50851,7 +50851,7 @@ const gG = {
       name: "Chart",
       url: "https://dexscreener.com/base/0xcomingsoon",
     },
-    { name: "Community", url: "https://t.me/russelldog" },
+    { name: "Community", url: "https://t.me/jesse_basecoin" },
   ],
   xG = () => {
     const e = k.useRef(null),
@@ -50963,7 +50963,7 @@ const gG = {
     },
     // {
     //   name: "Telegram",
-    //   link: "https://t.me/russelldog",
+    //   link: "https://t.me/jesse_basecoin",
     //   image: "/links/telegram.svg",
     // },
     {
@@ -51137,12 +51137,12 @@ const gG = {
   SG = [
     {
       name: "Telegram",
-      link: "https://t.me/russelldog",
+      link: "https://t.me/jesse_basecoin",
       image: "/links/telegram-black.svg",
     },
     {
       name: "Twitter",
-      link: "https://x.com/russelldogcto",
+      link: "https://x.com/jesse_basecoin",
       image: "/links/twitter-x-black.svg",
     },
   ],
